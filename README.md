@@ -51,7 +51,7 @@ python main.py
 ## Linux
 Run the Python script:
 ```
-python main.py
+python3 main.py
 ```
 
 Enter how many digits you know. When you get one wrong, it will stop. Enjoy your pi(e)!
