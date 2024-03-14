@@ -1,4 +1,4 @@
-# Pi-Quiz-🥧
+# Pi Quiz 🥧
 How many digits of Pi do you know? Take this fun Python quiz to find out! Built for Pi Day 🥧
 
 # How to install:
