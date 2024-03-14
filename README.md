@@ -55,4 +55,5 @@ python3 main.py
 ```
 
 Enter how many digits you know. When you get one wrong, it will stop. Enjoy your pi(e)!
+
 Max digits: 1000 (modify this number by changing the ```pi.txt``` in your operating system folder is). If you want to memorise one billion digits, click [here](https://stuff.mit.edu/afs/sipb/contrib/pi/pi-billion.txt)
