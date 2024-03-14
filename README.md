@@ -1,5 +1,5 @@
 # Pi-Quiz
-How many digits of Pi do you know? Take this fun Python quiz to find out.
+How many digits of Pi do you know? Take this fun Python quiz to find out!
 
 # How to install:
 ## MacOS
