@@ -1,5 +1,5 @@
 # Pi-Quiz-🥧
-How many digits of Pi do you know? Take this fun Python quiz to find out! (Built for Pi Day 🥧!)
+How many digits of Pi do you know? Take this fun Python quiz to find out! Built for Pi Day 🥧
 
 # How to install:
 ## MacOS
@@ -55,3 +55,4 @@ python3 main.py
 ```
 
 Enter how many digits you know. When you get one wrong, it will stop. Enjoy your pi(e)!
+Max digits: 1000 (modify this number by changing the ```pi.txt``` in your operating system folder is).
