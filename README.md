@@ -48,7 +48,7 @@ Run the Python script:
 python main.py
 ```
 
-## MacOS
+## Linux
 Run the Python script:
 ```
 python main.py
